@@ -7,15 +7,14 @@
 ## 🤖 About Me
 ผมเป็นนักพัฒนาที่หลงใหลในโลกของ **Artificial Intelligence** และ **Robotics** ปัจจุบันกำลังศึกษาและพัฒนาโปรเจกต์ที่เกี่ยวกับการเชื่อมต่อระหว่าง Software และ Hardware อย่างเข้มข้น
 
-* 🎓 **Education:** กำลังศึกษาด้าน AI
-* 🔭 **Current Project:** พัฒนา Drone Localization และระบบควบคุม Robot Arm (Feetech Servos)
-
+* 🎓 **Education:** Majoring in Artificial Intelligence at Huachiew Chalermprakiet University
+  
 ---
 # My dataset
 [![View Dataset](https://img.shields.io/badge/View_Dataset-blue?style=for-the-badge&logo=databricks)](https://lookmaizaza.github.io/dataset)
 
 ---
-## Assignment
+# Assignment
 
 
 ---
