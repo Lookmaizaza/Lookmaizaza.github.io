@@ -12,7 +12,8 @@
 
 ---
 # My dataset
-[![View Dataset](https://img.shields.io/badge/View-Dataset-blue?style=for-the-badge&logoColor=blue)](https://lookmaizaza.github.io/dataset)
+[![View Dataset](https://img.shields.io/badge/View-Dataset?style=for-the-badge&logoColor=blue)](https://lookmaizaza.github.io/dataset)
+
 ---
 ## 🛠 Tech Stack & Tools
 
