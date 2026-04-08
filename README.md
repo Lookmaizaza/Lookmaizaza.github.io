@@ -12,7 +12,7 @@
 
 ---
 # My dataset
-[คลิกเพื่อดู Dataset](https://lookmaizaza.github.io/dataset)
+[![View Dataset](https://img.shields.io/badge/View-Dataset-blue?style=for-the-badge&logo=databricks)](https://lookmaizaza.github.io/dataset)
 ---
 ## 🛠 Tech Stack & Tools
 
