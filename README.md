@@ -12,7 +12,7 @@
 
 ---
 # My dataset
-![dataset page](https://lookmaizaza.github.io/dataset)
+[คลิกเพื่อดู Dataset](https://lookmaizaza.github.io/dataset)
 ---
 ## 🛠 Tech Stack & Tools
 
