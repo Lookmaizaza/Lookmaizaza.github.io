@@ -9,7 +9,6 @@
 
 * 🎓 **Education:** กำลังศึกษาด้าน AI & Computer Science
 * 🔭 **Current Project:** พัฒนา Drone Localization และระบบควบคุม Robot Arm (Feetech Servos)
-* ⚡ **Fun Fact:** แฟนตัวยงของ EXO (Chanyeol & Baekhyun) 🎤
 
 ---
 
