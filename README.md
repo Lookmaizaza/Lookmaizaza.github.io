@@ -15,7 +15,7 @@
 [![View Dataset](https://img.shields.io/badge/View_Dataset-blue?style=for-the-badge&logo=databricks)](https://lookmaizaza.github.io/dataset)
 
 ---
-## 🛠 Tech Stack & Tools
+## Assignment
 
 ### 🧠 Artificial Intelligence & Data
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
