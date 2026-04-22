@@ -5,7 +5,7 @@
 </p>
 
 ## 🤖 About Me
-หลงใหลในโลกของ **Artificial Intelligence** และ **Robotics** ปัจจุบันกำลังศึกษาและพัฒนาโปรเจกต์ที่เกี่ยวกับการเชื่อมต่อระหว่าง Software และ Hardware อย่างเข้มข้น
+หลงใหลในโลกของ **Artificial Intelligence** ปัจจุบันกำลังศึกษาและพัฒนาโปรเจกต์ที่เกี่ยวกับการเชื่อมต่อระหว่าง Software และ Hardware
 
 * 🎓 **Education:** Majoring in Artificial Intelligence at Huachiew Chalermprakiet University
   
