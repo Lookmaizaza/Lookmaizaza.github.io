@@ -24,7 +24,6 @@
 
 * [**11.1.6 Lab: Using the Measures of Central Tendency**](11-1-6-Measures-of-Central-Tendency.md) - การวิเคราะห์ข้อมูลด้วยสถิติพื้นฐาน (Mean, Median, Mode) เพื่อเปรียบเทียบผลลัพธ์
 * [**16.2.4 Live Lab: Build an Ad-Hoc Report**](16-2-4-Ad-Hoc-Report.md) - การสร้างรายงานเฉพาะกิจเพื่อตอบคำถามทางธุรกิจอย่างรวดเร็ว
-
 ---
 
 ## 📫 Connect with me
