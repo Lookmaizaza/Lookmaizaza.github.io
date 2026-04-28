@@ -106,9 +106,7 @@
 
 ดิฉันเลือกใช้ **Interactive Treemap** เพื่อเป็นภาพจำลอง **โครงสร้างการตัดสินใจเลือกพาหนะของคนไทย** สอดคล้องกับแนวคิดในหนังสือที่ว่าภาพนิทัศน์ที่ดีต้องทำให้ผู้ชม “มองเห็นความหมาย” ได้ทันที
 
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/28732095">
-    <script src="https://public.flourish.studio/resources/embed.js"></script>
-</div>
+<iframe src="https://flo.uri.sh/visualisation/28732095/embed" title="Interactive Visualization" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"></iframe>
 
 Treemap นี้ทำหน้าที่มากกว่าการ “สรุปตัวเลข” แต่เปรียบเสมือนภาพจำลอง **โครงสร้างการตัดสินใจเลือกพาหนะของคนไทย** ในแต่ละภูมิภาคให้เห็นชัดเจนในกรอบสายตาเดียว
 
