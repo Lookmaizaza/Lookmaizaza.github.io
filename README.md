@@ -14,8 +14,7 @@
 ⚡ เป้าหมายการทำงาน: มุ่งเน้นการพัฒนาระบบ AI ที่มีเสถียรภาพและประสิทธิภาพสูง พร้อมการเชื่อมต่อผ่านเว็บอินเทอร์เฟซที่ทันสมัย
   
 ---
-# 🗄️ My dataset
-[![View Dataset](https://img.shields.io/badge/View_Dataset-blue?style=for-the-badge&logo=databricks)](https://lookmaizaza.github.io/dataset)
+# 🗄️ My dataset [![View Dataset](https://img.shields.io/badge/View_Dataset-blue?style=for-the-badge&logo=databricks)](https://data.go.th/dataset/0505_17_3017)
 
 ---
 # 📚 Assignments & Labs
