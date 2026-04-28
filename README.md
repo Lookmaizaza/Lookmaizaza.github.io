@@ -22,7 +22,7 @@
 * **Baseline Behavior:** รถยนต์ส่วนตัวคือแกนกลางของวิถีไทย (เสถียรที่ 65–70%)
 * **Regional Insight:** ภาคอีสานคือขุมทรัพย์ของธุรกิจรถเช่า (สัดส่วนสูงถึง 25.5%)
 
-[***Full Project Details**](data-analytics.md)
+* [**Full Project Details**](data-analytics.md)
 
 ---
 
