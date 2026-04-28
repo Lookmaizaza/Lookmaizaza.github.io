@@ -104,7 +104,8 @@
 
 ## 🎨 Interactive Treemap: ศิลปะเพื่อการสื่อปัญญา
 
-![Interactive Treemap แสดงโครงสร้างการตัดสินใจเลือกพาหนะของแต่ละภูมิภาค](images/treemap.png)
+![Interactive Treemap แสดงโครงสร้างการตัดสินใจเลือกพาหนะของแต่ละภูมิภาค]
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/28732095"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28732095/thumbnail" width="100%" alt="hierarchy visualization" /></noscript></div>
 
 Treemap นี้ทำหน้าที่มากกว่าการ “สรุปตัวเลข” แต่เปรียบเสมือนภาพจำลอง **โครงสร้างการตัดสินใจเลือกพาหนะของคนไทย** ในแต่ละภูมิภาคให้เห็นชัดเจนในกรอบสายตาเดียว
 
