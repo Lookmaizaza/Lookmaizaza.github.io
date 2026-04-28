@@ -120,7 +120,8 @@
 * **การลดภาระการประมวลผล (อ้างอิงบท: หลักการออกแบบภาพนิทัศน์):** มีการจัดการ **Attribute ของสี (Color)** โดยแยกตามภูมิภาค เพื่อช่วยลดภาระของสมอง (Cognitive Load) ในการแยกแยะหมวดหมู่ ทำให้ผู้ชมสามารถเปรียบเทียบความแตกต่างระหว่างภาคอีสานและภาคอื่นๆ ได้ภายใน 3 วินาที
 * **การสำรวจข้อมูล (อ้างอิงบท: ภาพนิทัศน์แบบโต้ตอบ - Interactive Visualization):** ฟีเจอร์ **Drill-down** ที่กดเจาะลึกเข้าไปดูรายพาหนะได้นั้น ถูกออกแบบมาเพื่อให้ภาพนิทัศน์ชิ้นนี้ทำหน้าที่เป็นเครื่องมือในการ "ค้นหาปัญญา" (Exploration) ช่วยให้ผู้ใช้ไม่ได้เป็นเพียงผู้รับข้อมูล แต่สามารถโต้ตอบกับข้อมูลเพื่อหาคำตอบที่ต้องการได้ด้วยตนเอง
 
-[![images/treemap.png](https://public.flourish.studio/visualisation/28732095/)
+[![Interactive Treemap Preview](https://public.flourish.studio/visualisation/28732095/thumbnail)](https://public.flourish.studio/visualisation/28732095/)
+
 > 🖱️ **[คลิกที่นี่เพื่อเปิดดู Interactive Dashboard (สามารถกด Drill-down เจาะลึกข้อมูลรายภาคได้)](https://public.flourish.studio/visualisation/28732095/)**
 
 ### สิ่งที่กราฟนี้สื่อสารอย่างชัดเจน
