@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 🎨 เมื่อ “พาหนะที่เลือก” เล่าเรื่อง “วิธีคิด” ของคนไทย
 
 # "Data is a Mirror, Not Just a Number"
