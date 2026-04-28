@@ -15,10 +15,18 @@
   
 ---
 
-# 🗄️ Data Analytics Project
-[![View Dataset](https://img.shields.io/badge/View_Dataset-blue?style=for-the-badge&logo=databricks)](https://data.go.th/dataset/0505_17_3017)
+# 🎨 Data Analytics Project: เมื่อ “พาหนะ” เล่าเรื่องคนไทย
+ในโปรเจกต์นี้ ดิฉันได้นำข้อมูลจาก **data.go.th** มาถอดรหัสพฤติกรรมการเดินทางของประชากรไทย โดยใช้ Framework **DIKW Pyramid** เพื่อเปลี่ยนข้อมูลดิบให้กลายเป็น Insight ที่ใช้ตัดสินใจได้จริง
+
+### 🔍 Key Highlights:
+* **Baseline Behavior:** รถยนต์ส่วนตัวคือแกนกลางของวิถีไทย (เสถียรที่ 65–70%)
+* **Regional Insight:** ภาคอีสานคือขุมทรัพย์ของธุรกิจรถเช่า (สัดส่วนสูงถึง 25.5%)
+
+[![Full Project Details](https://img.shields.io/badge/Full_Project_Details-Click_Here-success?style=for-the-badge&logo=github)](data-analytics.md)
+> 🖱️ **คลิกปุ่มด้านบนเพื่อดูการวิเคราะห์เปรียบเทียบ AI และ Interactive Dashboard ฉบับเต็ม**
 
 ---
+
 # 📚 Assignments & Labs
 * [**11.1.6 Lab: Measures of Central Tendency**](Using-the-Measures-of-Central-Tendency.md)
 * [**16.2.4 Live Lab: Build an Ad-Hoc Report**](Build-an-Ad-Hoc-Report.md)
