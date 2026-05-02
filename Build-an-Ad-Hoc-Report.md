@@ -11,7 +11,7 @@
 
 ### ขั้นตอนที่ 1: การกำหนดขอบเขตและเลือกข้อมูลเป้าหมาย (Column Selection)
 
-![Query Designer](images/Screenshot 2026-05-02 140217.png)
+![select](images/Screenshot2026-05-02140217.png)
 
 *   **สิ่งที่ทำ:** เริ่มต้นด้วยการใช้เครื่องมือ **Query Designer** (หน้าต่าง GUI) เพื่อสำรวจโครงสร้างของตาราง `DimProduct`
 *   **หลักการทาง Data:** แทนที่จะดึงข้อมูลมาทั้งหมดทุกคอลัมน์ (ซึ่งทำให้เปลืองทรัพยากรประมวลผลและอ่านยาก) เราทำการติ๊กเลือกเฉพาะฟิลด์ที่ตอบโจทย์คำถามทางธุรกิจ ได้แก่ `ProductKey`, `WeightUnitMeasureCode`, `EnglishProductName`, `StandardCost`, `Color`, และ `ListPrice` 
@@ -19,7 +19,7 @@
 
 ### ขั้นตอนที่ 2: การสำรวจและประเมินคุณภาพข้อมูลเบื้องต้น (Data Profiling & Discovery)
 
-![Initial Results](images/Screenshot 2026-05-02 140252.png)
+![Initial Results](images/Screenshot2026-05-02140252.png)
 
 *   **สิ่งที่ทำ:** ทำการรัน (Execute) คำสั่ง `SELECT` ที่ได้จากขั้นตอนแรก เพื่อดูหน้าตาของข้อมูลดิบ (Raw Data)
 *   **หลักการทาง Data:** ในหน้าต่าง Results แสดงให้เห็นว่าตารางนี้มีข้อมูลทั้งหมด **606 แถว (Rows)** แต่เมื่อสังเกตด้วยตาเปล่าจะพบปัญหา **Data Quality** ทันที นั่นคือมีค่า `NULL` (ค่าว่าง) ปรากฏอยู่เต็มไปหมดในคอลัมน์ `WeightUnitMeasureCode` (หน่วยน้ำหนัก) และ `StandardCost` (ต้นทุนมาตรฐาน)
@@ -27,7 +27,7 @@
 
 ### ขั้นตอนที่ 3: การทำความสะอาดและคัดกรองข้อมูล (Data Filtering & Cleaning)
 
-![Filtering Nulls](images/Screenshot 2026-05-02 140403.png)
+![Filtering Nulls](images/Screenshot2026-05-02140403.png)
 
 *   **สิ่งที่ทำ:** เพิ่มเงื่อนไข (Condition) ต่อท้ายคำสั่งด้วย Clause `WHERE WeightUnitMeasureCode IS NOT NULL AND StandardCost IS NOT NULL`
 *   **หลักการทาง Data:** เป็นการทำ Data Cleaning อย่างง่าย โดยสั่งให้ระบบกรองเอาเฉพาะแถวข้อมูลที่มี "หน่วยน้ำหนัก" **และ** "ต้นทุน" ระบุอยู่จริงเท่านั้น (ตัด Noise ออก)
